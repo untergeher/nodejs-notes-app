@@ -2,6 +2,7 @@ const chalk = require('chalk')
 const { argv } = require('yargs')
 const yargs = require('yargs')
 
+
 const notes = require('./notes.js')
 
 yargs.version('1.1.0')
